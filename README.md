@@ -11,6 +11,7 @@
 
       берешь папку lua и кидаешь по этому пути
      /home/steam/steamcmd/папка с сервером/garrysmod/addons/ папка с оружием / --(Linux)
-     C:\Users\server\Desktop\steamcmd\steamapps\common\GarrysModDS\garrysmod\adddon\папка с оружием \ (У КАЖДОГО ПУТЬ СВОЙ К СЕРВЕРУ ЭТО ПРИМЕР) --(Windows)
+     C:\Users\server\Desktop\steamcmd\steamapps\common\GarrysModDS\garrysmod\adddon\папка с оружием \ 
+     (У КАЖДОГО ПУТЬ СВОЙ К СЕРВЕРУ ЭТО ПРИМЕР) --(Windows)
       Удаляешь папку lua 
       и ставишь нашу папку lua и все
